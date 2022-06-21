@@ -1,0 +1,23 @@
+/* colores de fondo */
+
+.bg-aqua{
+background-color: rgba(10, 252, 252, 0.418);
+}
+
+.bg-black{
+  background-color: black;
+}
+
+
+/* colores de texto */
+.text-blue{
+    color: blue;
+}
+
+#botonera ul li a{
+  color: black;
+}
+
+.text-white{
+color: white;
+}
